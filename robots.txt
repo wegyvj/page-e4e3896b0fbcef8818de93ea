@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.chaojiremaiyxk.cn/sitemap.xml
